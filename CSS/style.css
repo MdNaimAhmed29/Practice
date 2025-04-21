@@ -1,0 +1,167 @@
+/*.my-text-style{
+    color: green;
+    font-size: 70px;   
+}
+
+#my-id{
+    color: rgb(238, 255, 0);
+    font-weight: 900;
+}
+
+/*{
+    color: rgb(43, 0, 255);
+    font-size: 70px;
+}*/
+
+/*h4,h5{
+    color: rgb(255, 0, 0);
+    font-size: 70px;
+}*/
+
+/*body{
+    /*background-color: aqua;
+    background-image: url(Back.jpeg);
+    background-repeat: no-repeat;
+    /*object-fit: contain;
+    background-position: center;
+    /*background-attachment: fixed;> !importent
+   /* background-size: contain;
+}*/
+
+/*.my-div{
+    height: 100px;
+    width: 100px;
+    background-color: crimson;
+    border-radius: 80px 5px 80px 5px;
+}*/
+
+/*p{
+    display: inline;
+}
+
+img{
+    float: left;
+}
+
+.fonts-style{
+    font-size: 60px;
+    font-weight: bolder;
+    /*font-variant: small-caps;*
+    color: black;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.my-button{
+    background-color: red;
+    border-radius: 6px;
+    color: white;
+    padding: 30px;
+}
+
+.my-button:hover{
+    background-color: lightyellow;
+    color: black;
+}*/
+
+/*.line{
+    line-height: 150%;
+    margin: 50px 240px 30px 20px !important;
+}*/
+
+/*button{
+    margin: 100px;
+    padding: 10px;
+}*/
+
+/*img{
+    width: 500px;
+    height: auto;
+    /*filter: brightness(200%);
+    /*filter: blur(2px);
+    /*filter: invert(60);
+    /*filter: saturate(40);
+    /*filter: contrast(10%);
+    /*filter: opacity(40%);
+    /*filter: grayscale(80%);
+    /*filter: sepia(90%);
+    /*filter: hue-rotate(120deg);
+    /*filter: drop-shadow(10px 20px 40px black);
+}*/
+
+/*p{
+    height: 300px;
+    width: 300px;
+
+    /*overflow: hidden;
+    /*overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}*/
+
+/*.my-position{
+    /*position: fixed;
+    color: red;
+    right: 100px;
+    left: 100px;
+    top: 100px;
+
+    /*position: relative;
+    color: red;
+    right: 100px;
+    left: 100px;
+    top: 100px;
+
+    /*position:absolute;
+    color: red;
+    right: 100px;
+    left: 100px;
+    top: 100px;
+
+    position: sticky;
+    color: red;
+    right: 100px;
+    left: 100px;
+    top: 100px;
+}*/
+
+/*div{
+    width: 150px;
+    border: 1px solid red;
+}
+
+div.a{
+    width: 150px;
+    border: 1px solid blue;
+    word-wrap: normal;
+}
+
+div.b{
+    width: 150px;
+    border: 1px solid green;
+    word-wrap: break-word;
+}
+
+.test{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p{
+    text-decoration: underline;
+}
+
+p{
+    letter-spacing: normal;
+    word-spacing: 20px;
+}*/
+
+:root{
+    --colorprimary: red;
+    --fontprimary: 20px;
+}
+
+p{
+    color: var(--colorprimary);
+    font-size: var(--fontprimary);
+}
